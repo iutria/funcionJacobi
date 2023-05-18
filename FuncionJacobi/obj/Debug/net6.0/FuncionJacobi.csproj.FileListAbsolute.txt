@@ -1,0 +1,15 @@
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\bin\Debug\net6.0\FuncionJacobi.exe
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\bin\Debug\net6.0\FuncionJacobi.deps.json
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\bin\Debug\net6.0\FuncionJacobi.runtimeconfig.json
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\bin\Debug\net6.0\FuncionJacobi.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\bin\Debug\net6.0\FuncionJacobi.pdb
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.csproj.AssemblyReference.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.AssemblyInfoInputs.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.AssemblyInfo.cs
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.csproj.CoreCompileInputs.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\refint\FuncionJacobi.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.pdb
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\FuncionJacobi.genruntimeconfig.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\FuncionJacobi\obj\Debug\net6.0\ref\FuncionJacobi.dll

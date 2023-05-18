@@ -1,0 +1,12 @@
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\bin\Debug\net6.0\ENTITY.deps.json
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\bin\Debug\net6.0\ENTITY.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\bin\Debug\net6.0\ENTITY.pdb
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.AssemblyInfo.cs
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\refint\ENTITY.dll
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ENTITY.pdb
+C:\Users\IVANU\Desktop\net\FuncionJacobi\ENTITY\obj\Debug\net6.0\ref\ENTITY.dll
